@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="" >
+<div align="center" >
   
 [![Renan Valério's github stats](https://github-readme-stats.vercel.app/api?username=renanvallerio&show_icons=true&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanvallerio&layout=compact&langs_count=10&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
 
-<div style="" >
+</div>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Renan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
