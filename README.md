@@ -1,6 +1,6 @@
 ### What's up! I'm Renan Valério, it's good to see you here 👋
 
-Brazilian developer, learning Web and Mobile development with JavaScript and Node JS. I intend to learn React JS and React Native. | [Open to job offers]
+Brazilian developer, learning Web and Mobile development with JavaScript, TypeScript and Node JS. I intend to learn React JS and React Native. | [Open to job offers]
 
 <!--
 **renanvallerio/renanvallerio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
