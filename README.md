@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 <div align="center" >
   
-[![Renan Valério's github stats](https://github-readme-stats.vercel.app/api?username=renanvallerio&show_icons=true&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Renan Valério's github stats](https://github-readme-stats.vercel.app/api?username=renanvallerio&show_icons=true&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanvallerio&layout=compact&langs_count=10&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
