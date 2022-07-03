@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=75&color=FFFFFF&center=true&vCenter=true&width=1920&height=100&lines=%3CRenan+Valério%2F%3E)](https://git.io/typing-svg)
+
 ### What's up! I'm Renan Valério, it's good to see you here 👋
 
 Brazilian developer, learning Web and Mobile development with JavaScript, TypeScript and Node JS. I intend to learn React JS and React Native. | [Open to job offers]
